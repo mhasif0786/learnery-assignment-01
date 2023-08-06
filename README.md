@@ -1,1 +1,1 @@
-# learnery-assignment-01
+# learnery-assignment-1
